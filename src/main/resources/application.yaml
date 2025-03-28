@@ -1,0 +1,8 @@
+amqp:
+  rmq:
+    port: 8071
+    username: americas\servicelghtngesbsit
+    host: paas-rmq-svc-sit21.us.dell.com
+    virtual.host: LIGHTNING_CKS_SIT1
+    password: m?SQ+WYV738ARTg~zk1FE5p_
+#    reply.timeout: 600000
